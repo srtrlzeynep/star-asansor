@@ -1,0 +1,80 @@
+@import "tailwindcss";
+
+/* ---------------------------------------------------------
+   Star Asansör design tokens
+   Premium/neutral-first system: a near-white, near-black
+   canvas with the brand mark (navy #004888, red #D82820)
+   used deliberately and sparingly as accents, not fills.
+---------------------------------------------------------- */
+
+:root {
+  --brand-950: #0a0e16;
+  --brand-900: #004888;
+  --brand-800: #0a5696;
+  --brand-700: #1f6bae;
+  --brand-100: #e3edf6;
+  --brand-50: #f2f6fa;
+
+  --accent-600: #b81f18;
+  --accent-500: #d82820;
+  --accent-100: #fbe1df;
+
+  --surface: #ffffff;
+  --surface-muted: #f7f7f8;
+  --surface-elevated: #ffffff;
+
+  --ink: #0c0e13;
+  --ink-muted: #565d68;
+  --ink-subtle: #8a8f99;
+
+  --border: #e6e7eb;
+}
+
+@theme inline {
+  --font-sans: var(--font-body);
+  --font-heading: var(--font-heading);
+
+  --color-brand-950: var(--brand-950);
+  --color-brand-900: var(--brand-900);
+  --color-brand-800: var(--brand-800);
+  --color-brand-700: var(--brand-700);
+  --color-brand-100: var(--brand-100);
+  --color-brand-50: var(--brand-50);
+
+  --color-accent-600: var(--accent-600);
+  --color-accent-500: var(--accent-500);
+  --color-accent-100: var(--accent-100);
+
+  --color-surface: var(--surface);
+  --color-surface-muted: var(--surface-muted);
+  --color-surface-elevated: var(--surface-elevated);
+
+  --color-ink: var(--ink);
+  --color-ink-muted: var(--ink-muted);
+  --color-ink-subtle: var(--ink-subtle);
+
+  --color-border: var(--border);
+}
+
+body {
+  font-family: var(--font-body), system-ui, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+.font-heading {
+  font-family: var(--font-heading), var(--font-body), system-ui, sans-serif;
+  letter-spacing: -0.02em;
+}
+
+::selection {
+  background: var(--accent-100);
+  color: var(--brand-900);
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent-500);
+  outline-offset: 2px;
+}

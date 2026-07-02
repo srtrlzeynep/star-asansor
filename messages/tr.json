@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "title": "Star Asansör | Güvenilir Asansör Ve Yürüyen Merdiven Çözümleri",
+    "description": "1985'ten beri elektrikli ve hidrolik asansör, yürüyen merdiven, engelli erişim çözümleri ve özel asansör sistemleri üreten, kuran ve bakımını yapan Türk mühendislik firması."
+  },
+  "nav": {
+    "home": "Anasayfa",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "references": "Referanslar",
+    "contact": "İletişim",
+    "callCta": "Bize Ulaşın",
+    "openMenu": "Menüyü Aç"
+  },
+  "footer": {
+    "tagline": "1985'ten bu yana can ve mal güvenliğini önceleyen mühendislik anlayışıyla asansör ve yürüyen merdiven çözümleri üretiyoruz.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "legalName": "Star Asansör Yürüyen Merdiven İnşaat Taahhüt Ticaret ve Sanayi A.Ş.",
+    "copyright": "© {year} Star Asansör. Tüm hakları saklıdır."
+  },
+  "offices": {
+    "ankara": { "label": "Ankara Merkez" },
+    "istanbul": { "label": "İstanbul Bölge Ofisi" }
+  },
+  "home": {
+    "hero": {
+      "badge": "1985'ten beri güvenle",
+      "title": "Binanıza Değer Katan Asansör Ve Yürüyen Merdiven Çözümleri",
+      "description": "Elektrikli ve hidrolik asansörden engelli erişim çözümlerine, özel mühendislik projelerinden bakım-onarıma kadar; can ve mal güvenliğini önceleyen boutique çözümler üretiyoruz.",
+      "primaryCta": "Ücretsiz Keşif Talep Edin",
+      "secondaryCta": "+90 850 722 7827",
+      "stat1Label": "Kuruluş Yılı",
+      "stat2Label": "Tamamlanan Proje",
+      "stat3Label": "Yerli Sermaye"
+    },
+    "servicesSection": {
+      "eyebrow": "Hizmetlerimiz",
+      "title": "Her İhtiyaca Özel Mühendislik Çözümleri",
+      "description": "Konuttan hastaneye, fabrikadan kamu binalarına kadar her proje için doğru asansör ve erişim sistemini tasarlıyor, kuruyor ve destekliyoruz."
+    },
+    "whyUs": {
+      "eyebrow": "Neden Star Asansör",
+      "title": "Deneyim, Güvenlik Ve Müşteri Memnuniyeti Odaklı Çalışıyoruz",
+      "description": "40 yılı aşkın tecrübemizi, güncel mühendislik standartlarıyla birleştirerek her projede sürdürülebilir güven inşa ediyoruz.",
+      "items": {
+        "experience": {
+          "title": "1985'ten Beri Tecrübe",
+          "description": "1985'ten bu yana asansör mühendisliğinde biriktirdiğimiz bilgi birikimini her projeye taşıyoruz."
+        },
+        "safety": {
+          "title": "Can Ve Mal Güvenliği Önceliği",
+          "description": "Tüm sistemlerimiz uluslararası güvenlik standartlarına ve yönetmeliklere uygun olarak tasarlanır."
+        },
+        "satisfaction": {
+          "title": "Müşteri Memnuniyeti Odaklı",
+          "description": "Keşiften bakım sonrasına kadar şeffaf iletişim ve zamanında teslimatla çalışıyoruz."
+        },
+        "reach": {
+          "title": "Yurt İçi Ve Yurt Dışı Hizmet",
+          "description": "Ankara ve İstanbul ofislerimizden Türkiye geneline ve yurt dışına boutique çözümler sunuyoruz."
+        }
+      }
+    },
+    "stats": {
+      "experience": { "value": "40+", "label": "Yıllık Deneyim" },
+      "projects": { "value": "1000+", "label": "Tamamlanan Proje" },
+      "support": { "value": "7/24", "label": "Teknik Destek Hattı" },
+      "offices": { "value": "2", "label": "Bölge Ofisi" }
+    },
+    "referencesSection": {
+      "eyebrow": "Referanslarımız",
+      "title": "Farklı Sektörlerden Tamamladığımız Projeler",
+      "description": "Kamu kurumlarından hastanelere, sanayi tesislerinden konut ve eğitim kampüslerine kadar geniş bir yelpazede referanslarımız.",
+      "cta": "Tüm Referansları Gör"
+    },
+    "cta": {
+      "title": "Projeniz İçin Doğru Asansör Çözümünü Birlikte Bulalım",
+      "description": "Uzman ekibimiz, ihtiyacınıza en uygun sistemi belirlemek için sizinle ücretsiz bir keşif görüşmesi planlasın.",
+      "primaryCta": "İletişime Geçin",
+      "secondaryCta": "+90 850 722 7827"
+    }
+  },
+  "about": {
+    "page": {
+      "eyebrow": "Hakkımızda",
+      "title": "1985'ten Bu Yana Güven İnşa Ediyoruz",
+      "description": "Star Asansör, 1985'ten bu yana Türk mühendisliğiyle asansör ve yürüyen merdiven sistemleri üreten, kuran ve bakımını yapan tam yerli sermayeli bir firmadır."
+    },
+    "story": {
+      "eyebrow": "Hikayemiz",
+      "title": "Kuruluşumuzdan Bugüne Mühendislik Tutkusu",
+      "paragraph1": "1985 yılında Hüseyin Sarıtarla ve Mehmet Sarıtarla tarafından Ankara'da kurulan Star Asansör, o günden bu yana müşteri memnuniyetini ve can-mal güvenliğini her kararın merkezine koyarak büyüdü. Küçük bir atölyeden başlayan yolculuğumuz bugün Ankara ve İstanbul'daki ofislerimizle Türkiye geneline ve yurt dışına hizmet veren bir mühendislik firmasına dönüştü.",
+      "paragraph2": "Elektrikli ve hidrolik asansörlerden özel mühendislik gerektiren boutique projelere kadar geniş bir yelpazede, üretimden montaja, bakımdan modernizasyona uzanan uçtan uca bir hizmet anlayışı benimsiyoruz."
+    },
+    "milestones": {
+      "eyebrow": "Kilometre Taşları",
+      "title": "Sektörde Bir İlki Başlattığımız Yıllar",
+      "description": "1985'ten bugüne aldığımız her belge ve attığımız her adım, kalite ve güvenlik önceliğimizin bir kanıtı.",
+      "items": {
+        "1985": "Star Asansör, Hüseyin Sarıtarla ve Mehmet Sarıtarla tarafından Ankara'da kuruldu.",
+        "1988": "Türk Standartlarına Uygunluk Belgesi'ni aldık.",
+        "1996": "İlk tam otomatik asansörümüzü tesis ettik.",
+        "1998": "Türkiye'de planetary gear makine motor grubunu kullanan ilk firma olduk.",
+        "2001": "Bakım hizmeti verdiğimiz tüm asansörleri ve kullanıcılarını sigortalatmaya, bunu firma prensibimize dönüştürdük.",
+        "2002": "İlk kez uzaktan erişimli asansör kumanda sistemlerini kullanmaya başladık.",
+        "2003": "İlk ISO 9001:2000 belgemizi aldık.",
+        "2004": "LIFTINSTITUUT'ten 95/16/AT Asansör Direktifi Ek XIII H Modülü ve TS-EN-ISO 9001:2000 CE belgesini aldık.",
+        "2005": "İlk kez asansör multimedya sistemlerini kullanmaya başladık."
+      }
+    },
+    "values": {
+      "mission": {
+        "title": "Misyonumuz",
+        "description": "Her projede güvenliği ve kaliteyi ödün vermeden, müşterilerimizin ihtiyacına en uygun asansör çözümünü üretmek."
+      },
+      "vision": {
+        "title": "Vizyonumuz",
+        "description": "Yurt içinde ve yurt dışında, güvenilirliği ve mühendislik kalitesiyle anılan öncü bir asansör markası olmak."
+      },
+      "values": {
+        "title": "Değerlerimiz",
+        "description": "Şeffaflık, sürekli iyileştirme ve güvenlik önceliğiyle, her ölçekteki projede uzun soluklu ortaklıklar kurmak."
+      }
+    },
+    "quality": {
+      "eyebrow": "Kalite ve Güvenlik",
+      "title": "Uluslararası Standartlarda Kalite Politikası",
+      "description": "Tüm üretim, montaj ve bakım süreçlerimizde geçerli yönetmelik ve standartlara tam uyum sağlıyoruz.",
+      "items": {
+        "safety": {
+          "title": "Can Ve Mal Güvenliği",
+          "description": "Her proje, risk analizinden teslimata kadar güvenlik odaklı bir süreçle yönetilir."
+        },
+        "standards": {
+          "title": "Uluslararası Standartlara Uygunluk",
+          "description": "Asansör yönetmeliği ve ilgili Avrupa normlarına uygun tasarım ve üretim yapıyoruz."
+        },
+        "sustainability": {
+          "title": "Sürdürülebilir Mühendislik",
+          "description": "Enerji verimliliği yüksek sistemlerle hem çevresel hem ekonomik sürdürülebilirliği destekliyoruz."
+        },
+        "trust": {
+          "title": "Uzun Vadeli Güven",
+          "description": "Satış sonrası bakım ve destek hizmetlerimizle müşterilerimizin yanında olmaya devam ediyoruz."
+        }
+      }
+    }
+  },
+  "services": {
+    "page": {
+      "eyebrow": "Hizmetlerimiz",
+      "title": "Uçtan Uca Asansör Ve Erişim Çözümleri",
+      "description": "Üretimden montaja, bakımdan modernizasyona kadar her ihtiyaç için özel olarak tasarlanmış sistemler sunuyoruz."
+    },
+    "items": {
+      "electric": {
+        "title": "Elektrikli Asansörler",
+        "description": "Yolcu, yük, hasta ve servis taşıma amaçlı, kapasiteye göre tasarlanan yüksek verimli elektrikli asansör sistemleri.",
+        "features": [
+          "Yolcu asansörleri: 240–1600 kg",
+          "Yük asansörleri: 630 kg ve üzeri",
+          "Hasta (sedye) asansörleri: 1600–2500 kg",
+          "Yüksek hızlı asansörler: 2,5 m/sn ve üzeri"
+        ]
+      },
+      "hydraulic": {
+        "title": "Hidrolik Asansörler",
+        "description": "Düşük katlı yapılar için sessiz çalışan, bakımı kolay hidrolik asansör çözümleri.",
+        "features": [
+          "Düşük katlı binalar için ideal",
+          "Sessiz ve titreşimsiz çalışma",
+          "Kolay bakım ve uzun ömür"
+        ]
+      },
+      "escalator": {
+        "title": "Yürüyen Merdiven Ve Bant",
+        "description": "AVM, havalimanı ve toplu kullanım alanları için yüksek kapasiteli yürüyen merdiven ve bant sistemleri.",
+        "features": [
+          "Yüksek yolcu kapasitesi",
+          "AVM ve havalimanı çözümleri",
+          "Dayanıklı, düşük bakım maliyeti"
+        ]
+      },
+      "accessibility": {
+        "title": "Engelli Erişim Çözümleri",
+        "description": "Platform asansörleri, engelli lift sistemleri ve ev asansörleriyle tam erişilebilirlik sağlıyoruz.",
+        "features": [
+          "Platform ve merdiven lift sistemleri",
+          "Ev tipi küçük asansörler",
+          "Mevzuata tam uyumlu tasarım"
+        ]
+      },
+      "special": {
+        "title": "Özel Sistemler",
+        "description": "IP korumalı endüstriyel asansörler, heliport asansörleri, servis asansörleri ve anti-vandal tasarımlar dahil boutique projeler.",
+        "features": [
+          "Servis asansörleri: 40, 100, 250 kg",
+          "IP korumalı endüstriyel asansörler",
+          "Heliport ve anti-vandal tasarımlar"
+        ]
+      },
+      "monitoring": {
+        "title": "İzleme Ve Kabin Bilgi Sistemleri",
+        "description": "Uzaktan izleme, arıza bildirimi ve kabin içi bilgilendirme ekranlarıyla akıllı asansör yönetimi.",
+        "features": [
+          "7/24 uzaktan izleme",
+          "Otomatik arıza bildirimi",
+          "Kabin içi bilgilendirme ekranları"
+        ]
+      },
+      "cta": "Detaylı Bilgi"
+    }
+  },
+  "references": {
+    "page": {
+      "eyebrow": "Referanslarımız",
+      "title": "Kamudan Sanayiye Geniş Bir Referans Ağı",
+      "description": "Bakanlıklardan hastanelere, enerji santrallerinden konut ve eğitim kampüslerine kadar tamamladığımız projelerden bazıları."
+    },
+    "allCategories": "Tümü",
+    "completed": "{year} yılında tamamlandı",
+    "categories": {
+      "kamu": "Kamu",
+      "hastane": "Hastane",
+      "konut": "Konut",
+      "sanayi": "Sanayi",
+      "egitim": "Eğitim",
+      "ticaret": "Ticaret"
+    },
+    "projects": {
+      "tsk-ankara": "TSK Ankara Kız Öğrenci Yurdu",
+      "konya-hastanesi": "SSK Konya Meram Devlet Hastanesi",
+      "sakarya-hastanesi": "SSK Sakarya Yenikent Devlet Hastanesi",
+      "ulastirma-bakanligi": "T.C. Ulaştırma Bakanlığı",
+      "gazi-hastanesi": "SSK Ankara Gazi Devlet Hastanesi",
+      "dsi-genel-mudurluk": "DSİ Genel Müdürlük Merkez Sitesi",
+      "ozel-harekat-daire-baskanligi": "Özel Harekat Daire Başkanlığı Asansör Projesi",
+      "bilim-sanayi-teknoloji-bakanligi": "T.C. Sanayi ve Teknoloji Bakanlığı Asansör Projesi",
+      "euas-kangal-termik-santrali": "EÜAŞ Kangal Termik Santrali Asansör Projesi",
+      "euas-orhaneli-termik-santrali": "EÜAŞ Orhaneli Termik Santrali Asansör Projesi",
+      "teknopark-ankara": "Teknopark Ankara Asansör Projesi",
+      "akkent-paradise-gardens": "Akkent Paradise Gardens Konut Projesi",
+      "defne-etap-hatay": "Defne 1. ve 2. Etap Konut Projesi",
+      "nevayali-izmir": "Nevayalı Konut Projesi",
+      "ibn-haldun-universitesi": "İbn Haldun Üniversitesi Kampüsü Asansör Projesi",
+      "sanliurfa-piazza-avm": "Şanlıurfa Piazza AVM Asansör ve Yürüyen Merdiven Projesi"
+    }
+  },
+  "contact": {
+    "page": {
+      "eyebrow": "İletişim",
+      "title": "Projenizi Konuşalım",
+      "description": "Sorularınız veya keşif talebiniz için formu doldurun ya da doğrudan ofislerimizden birine ulaşın.",
+      "formEyebrow": "Mesaj Gönderin",
+      "formTitle": "Size En Kısa Sürede Dönüş Yapalım",
+      "officesEyebrow": "Ofislerimiz",
+      "officesTitle": "Bize Ulaşabileceğiniz Adresler"
+    },
+    "form": {
+      "nameLabel": "Ad Soyad",
+      "phoneLabel": "Telefon",
+      "emailLabel": "E-posta",
+      "messageLabel": "Mesajınız",
+      "consentLabel": "Kişisel verilerimin KVKK kapsamında işlenmesini kabul ediyorum.",
+      "submitCta": "Gönder",
+      "errorMessage": "Mesajınız gönderilemedi. Lütfen daha sonra tekrar deneyin ya da bizi doğrudan arayın.",
+      "successTitle": "Mesajınız Alındı",
+      "successDescription": "En kısa sürede sizinle iletişime geçeceğiz."
+    }
+  }
+}

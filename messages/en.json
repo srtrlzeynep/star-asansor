@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "title": "Star Asansör | Reliable Elevator & Escalator Solutions",
+    "description": "A Turkish engineering company manufacturing, installing and maintaining electric and hydraulic elevators, escalators, accessibility solutions and custom elevator systems since 1985."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "references": "References",
+    "contact": "Contact",
+    "callCta": "Contact Us",
+    "openMenu": "Open menu"
+  },
+  "footer": {
+    "tagline": "Since 1985, we've been engineering elevator and escalator solutions that put safety first.",
+    "quickLinks": "Quick Links",
+    "legalName": "Star Asansör Yürüyen Merdiven İnşaat Taahhüt Ticaret ve Sanayi A.Ş.",
+    "copyright": "© {year} Star Asansör. All rights reserved."
+  },
+  "offices": {
+    "ankara": { "label": "Ankara Headquarters" },
+    "istanbul": { "label": "Istanbul Regional Office" }
+  },
+  "home": {
+    "hero": {
+      "badge": "Trusted since 1985",
+      "title": "Elevator and Escalator Solutions That Add Value to Your Building",
+      "description": "From electric and hydraulic elevators to accessibility solutions, custom engineering projects and maintenance — we deliver boutique solutions that put safety first.",
+      "primaryCta": "Request a Free Site Survey",
+      "secondaryCta": "+90 850 722 7827",
+      "stat1Label": "Founded",
+      "stat2Label": "Completed Projects",
+      "stat3Label": "Turkish-Owned"
+    },
+    "servicesSection": {
+      "eyebrow": "Our Services",
+      "title": "Engineering Solutions Tailored to Every Need",
+      "description": "From residential buildings to hospitals, factories and public institutions, we design, install and support the right elevator and access system for every project."
+    },
+    "whyUs": {
+      "eyebrow": "Why Star Asansör",
+      "title": "Focused on Experience, Safety and Customer Satisfaction",
+      "description": "We combine over 40 years of experience with modern engineering standards to build lasting trust on every project.",
+      "items": {
+        "experience": {
+          "title": "Experience Since 1985",
+          "description": "We bring four decades of accumulated elevator engineering knowledge to every project."
+        },
+        "safety": {
+          "title": "Safety of Life and Property First",
+          "description": "All our systems are designed in full compliance with international safety standards and regulations."
+        },
+        "satisfaction": {
+          "title": "Customer Satisfaction Focused",
+          "description": "We work with transparent communication and on-time delivery, from site survey through post-installation support."
+        },
+        "reach": {
+          "title": "Nationwide and International Service",
+          "description": "From our Ankara and Istanbul offices, we deliver boutique solutions across Turkey and abroad."
+        }
+      }
+    },
+    "stats": {
+      "experience": { "value": "40+", "label": "Years of Experience" },
+      "projects": { "value": "1000+", "label": "Completed Projects" },
+      "support": { "value": "24/7", "label": "Technical Support Line" },
+      "offices": { "value": "2", "label": "Regional Offices" }
+    },
+    "referencesSection": {
+      "eyebrow": "Our References",
+      "title": "Projects Completed Across a Range of Sectors",
+      "description": "From public institutions to hospitals, industrial facilities to residential and education campuses — a wide range of references.",
+      "cta": "View All References"
+    },
+    "cta": {
+      "title": "Let's Find the Right Elevator Solution for Your Project",
+      "description": "Our expert team will schedule a free site survey to determine the system that best fits your needs.",
+      "primaryCta": "Get in Touch",
+      "secondaryCta": "+90 850 722 7827"
+    }
+  },
+  "about": {
+    "page": {
+      "eyebrow": "About Us",
+      "title": "Building Trust Since 1985",
+      "description": "Star Asansör is a fully Turkish-owned company that has been manufacturing, installing and maintaining elevator and escalator systems since 1985."
+    },
+    "story": {
+      "eyebrow": "Our Story",
+      "title": "A Passion for Engineering Since Day One",
+      "paragraph1": "Founded in Ankara in 1985 by Hüseyin Sarıtarla and Mehmet Sarıtarla, Star Asansör has grown by putting customer satisfaction and the safety of life and property at the center of every decision. What started as a small workshop has become an engineering company serving all of Turkey and international markets from our Ankara and Istanbul offices.",
+      "paragraph2": "From electric and hydraulic elevators to boutique projects requiring custom engineering, we take an end-to-end approach spanning manufacturing, installation, maintenance and modernization."
+    },
+    "milestones": {
+      "eyebrow": "Milestones",
+      "title": "The Years We Set a First for the Industry",
+      "description": "Every certificate we've earned and every step we've taken since 1985 is proof of our commitment to quality and safety.",
+      "items": {
+        "1985": "Star Asansör was founded in Ankara by Hüseyin Sarıtarla and Mehmet Sarıtarla.",
+        "1988": "Received Certificate of Compliance with Turkish Standards.",
+        "1996": "Tested and put into service our first full-automatic elevator.",
+        "1998": "Became the first company in Turkey to use a planetary gear motor group in elevators.",
+        "2001": "Started insuring all elevators we maintain and their users, and made it a company principle.",
+        "2002": "Started using remote-access elevator control systems for the first time.",
+        "2003": "Obtained our first ISO 9001:2000 certificate.",
+        "2004": "Obtained CE certification from LIFTINSTITUUT (95/16/EC Lift Directive Annex XIII Module H and TS-EN-ISO 9001:2000).",
+        "2005": "Started using elevator multimedia systems for the first time."
+      }
+    },
+    "values": {
+      "mission": {
+        "title": "Our Mission",
+        "description": "To deliver the elevator solution that best fits each client's needs, without ever compromising on safety or quality."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "description": "To be a leading elevator brand recognized for reliability and engineering quality, both in Turkey and abroad."
+      },
+      "values": {
+        "title": "Our Values",
+        "description": "Transparency, continuous improvement and a safety-first mindset, building long-term partnerships on projects of every scale."
+      }
+    },
+    "quality": {
+      "eyebrow": "Quality & Safety",
+      "title": "A Quality Policy Built on International Standards",
+      "description": "Every manufacturing, installation and maintenance process we run is fully compliant with applicable regulations and standards.",
+      "items": {
+        "safety": {
+          "title": "Safety of Life and Property",
+          "description": "Every project is managed with a safety-first process, from risk analysis through delivery."
+        },
+        "standards": {
+          "title": "International Standards Compliance",
+          "description": "We design and manufacture in line with elevator regulations and relevant European norms."
+        },
+        "sustainability": {
+          "title": "Sustainable Engineering",
+          "description": "Energy-efficient systems support both environmental and economic sustainability."
+        },
+        "trust": {
+          "title": "Long-Term Trust",
+          "description": "We continue to stand by our clients with after-sales maintenance and support services."
+        }
+      }
+    }
+  },
+  "services": {
+    "page": {
+      "eyebrow": "Our Services",
+      "title": "End-to-End Elevator and Access Solutions",
+      "description": "From manufacturing to installation, maintenance to modernization — systems custom-designed for every need."
+    },
+    "items": {
+      "electric": {
+        "title": "Electric Elevators",
+        "description": "High-efficiency electric elevator systems for passengers, cargo, patients and service use, sized to capacity.",
+        "features": [
+          "Passenger elevators: 240–1600 kg",
+          "Load elevators: 630 kg and above",
+          "Patient (stretcher) elevators: 1600–2500 kg",
+          "High-speed elevators: 2.5 m/s and above"
+        ]
+      },
+      "hydraulic": {
+        "title": "Hydraulic Elevators",
+        "description": "Quiet, low-maintenance hydraulic elevator solutions for low-rise buildings.",
+        "features": [
+          "Ideal for low-rise buildings",
+          "Quiet, vibration-free operation",
+          "Easy maintenance and long lifespan"
+        ]
+      },
+      "escalator": {
+        "title": "Escalators & Moving Walkways",
+        "description": "High-capacity escalator and moving walkway systems for malls, airports and high-traffic venues.",
+        "features": [
+          "High passenger capacity",
+          "Mall and airport solutions",
+          "Durable, low maintenance cost"
+        ]
+      },
+      "accessibility": {
+        "title": "Accessibility Solutions",
+        "description": "Platform lifts, accessibility lift systems and home elevators for full accessibility.",
+        "features": [
+          "Platform and stairlift systems",
+          "Compact home elevators",
+          "Fully regulation-compliant design"
+        ]
+      },
+      "special": {
+        "title": "Custom Systems",
+        "description": "Boutique projects including IP-protected industrial elevators, helipad elevators, service elevators and anti-vandal designs.",
+        "features": [
+          "Service elevators: 40, 100, 250 kg",
+          "IP-protected industrial elevators",
+          "Helipad and anti-vandal designs"
+        ]
+      },
+      "monitoring": {
+        "title": "Monitoring & Cabin Information Systems",
+        "description": "Smart elevator management with remote monitoring, fault reporting and in-cabin information displays.",
+        "features": [
+          "24/7 remote monitoring",
+          "Automatic fault reporting",
+          "In-cabin information displays"
+        ]
+      },
+      "cta": "Learn More"
+    }
+  },
+  "references": {
+    "page": {
+      "eyebrow": "Our References",
+      "title": "A Broad Reference Network, from Government to Industry",
+      "description": "From ministries to hospitals, power plants to residential and education campuses — a selection of our completed projects."
+    },
+    "allCategories": "All",
+    "completed": "Completed in {year}",
+    "categories": {
+      "kamu": "Public",
+      "hastane": "Hospital",
+      "konut": "Residential",
+      "sanayi": "Industrial",
+      "egitim": "Education",
+      "ticaret": "Commercial"
+    },
+    "projects": {
+      "tsk-ankara": "TSK Ankara Girls Dormitory",
+      "konya-hastanesi": "SSK Konya Meram State Hospital",
+      "sakarya-hastanesi": "SSK Sakarya Yenikent State Hospital",
+      "ulastirma-bakanligi": "Republic of Turkey Ministry of Transport",
+      "gazi-hastanesi": "SSK Ankara Gazi State Hospital",
+      "dsi-genel-mudurluk": "DSİ General Directorate Central Complex",
+      "ozel-harekat-daire-baskanligi": "Special Operations Department Elevator Project",
+      "bilim-sanayi-teknoloji-bakanligi": "Republic of Turkey Ministry of Industry and Technology Elevator Project",
+      "euas-kangal-termik-santrali": "EÜAŞ Kangal Thermal Power Plant Elevator Project",
+      "euas-orhaneli-termik-santrali": "EÜAŞ Orhaneli Thermal Power Plant Elevator Project",
+      "teknopark-ankara": "Teknopark Ankara Elevator Project",
+      "akkent-paradise-gardens": "Akkent Paradise Gardens Residential Project",
+      "defne-etap-hatay": "Defne Phase 1-2 Residential Project",
+      "nevayali-izmir": "Nevayalı Residential Project",
+      "ibn-haldun-universitesi": "İbn Haldun University Campus Elevator Project",
+      "sanliurfa-piazza-avm": "Şanlıurfa Piazza Shopping Mall Elevator and Escalator Project"
+    }
+  },
+  "contact": {
+    "page": {
+      "eyebrow": "Contact",
+      "title": "Let's Talk About Your Project",
+      "description": "Fill out the form for questions or a site survey request, or reach out to one of our offices directly.",
+      "formEyebrow": "Send a Message",
+      "formTitle": "We'll Get Back to You as Soon as Possible",
+      "officesEyebrow": "Our Offices",
+      "officesTitle": "Where to Find Us"
+    },
+    "form": {
+      "nameLabel": "Full Name",
+      "phoneLabel": "Phone",
+      "emailLabel": "Email",
+      "messageLabel": "Your Message",
+      "consentLabel": "I consent to my personal data being processed in accordance with applicable data protection regulations.",
+      "submitCta": "Send",
+      "errorMessage": "Your message could not be sent. Please try again later or call us directly.",
+      "successTitle": "Message Received",
+      "successDescription": "We'll get in touch with you shortly."
+    }
+  }
+}
