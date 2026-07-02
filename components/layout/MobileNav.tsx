@@ -27,21 +27,21 @@ export function MobileNav({
   return (
     <div
       className={cn(
-        "fixed inset-0 z-50 lg:hidden",
+        "fixed inset-0 z-50 isolate lg:hidden",
         open ? "pointer-events-auto" : "pointer-events-none",
       )}
       aria-hidden={!open}
     >
       <div
         className={cn(
-          "absolute inset-0 bg-brand-950/50 transition-opacity duration-300",
+          "absolute inset-0 bg-brand-950/50 transition-opacity duration-300 transform-gpu",
           open ? "opacity-100" : "opacity-0",
         )}
         onClick={onClose}
       />
       <div
         className={cn(
-          "absolute right-0 top-0 flex h-full w-[85%] max-w-sm flex-col bg-surface p-6 shadow-xl transition-transform duration-300",
+          "absolute right-0 top-0 flex h-dvh w-[85%] max-w-sm flex-col bg-surface p-6 shadow-xl transition-transform duration-300 will-change-transform transform-gpu",
           open ? "translate-x-0" : "translate-x-full",
         )}
       >
