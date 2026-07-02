@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Inter } from "next/font/google";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { getTranslations, setRequestLocale } from "next-intl/server";
@@ -40,6 +40,11 @@ export async function generateMetadata({
     description: t("description"),
   };
 }
+
+export const viewport: Viewport = {
+  colorScheme: "light",
+  themeColor: "#004888",
+};
 
 export default async function LocaleLayout({
   children,
