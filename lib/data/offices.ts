@@ -10,7 +10,7 @@ export const offices: Office[] = [
   {
     id: "ankara",
     nameKey: "ankara",
-    address: "Saray Mahallesi, Dağyaka Caddesi No:47/4, Kahramankazan / Ankara",
+    address: "Fatih Mahallesi, Fatih Sultan Mehmet Bulvarı No: 1200A, Kahramankazan / Ankara",
     phone: "+90 850 722 7827",
     hours: "08:30 – 18:00",
   },
